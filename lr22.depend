@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1636619235 source:c:\users\serge\onedrive\Рабочий стол\c-labs\lr22\untitled1.c
+	<stdio.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<locale.h>
+
+1636460641 source:c:\users\serge\onedrive\Рабочий стол\c-labs\lr22\untitled1.1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1637576839 source:c:\users\serge\onedrive\Рабочий стол\Все дз\c-labs\lr22\untitled1.c
+	<stdio.h>
+	<math.h>
+	<conio.h>
+	<stdbool.h>
+	<stdlib.h>
+
